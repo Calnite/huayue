@@ -1,2 +1,2 @@
 # huayue
-yues com
+yue's com page
