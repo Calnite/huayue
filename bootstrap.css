@@ -50,7 +50,7 @@ hr {
 	margin-top: 1rem;
 	margin-bottom: 1rem;
 	border: 0;
-	border-top: 1px solid rgba(0, 0, 0, 0.1)
+	border-top:2px dotted #ddd;
 }
 
 b,
@@ -4276,3 +4276,22 @@ button.bg-dark:focus {
   scrollbar-width: thin;
 }
 
+.bg-white {
+    border:1px solid #ededed;
+}
+
+.rounded {
+    border-radius:20px;
+}
+
+.badge {
+    background:#ffc2d1;
+}
+
+
+.listo {
+    background:#f1f1f1;
+    padding:.5rem 1rem;
+    border-radius:10px;
+    margin-bottom:1.5rem;
+}
