@@ -1307,7 +1307,7 @@ button.bg-dark:focus {
 }
 
 .rounded {
-	border-radius: .4rem !important
+	border-radius: 15px !important
 }
 
 .rounded-0 {
