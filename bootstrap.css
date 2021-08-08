@@ -64,13 +64,13 @@ small {
 
 a, 
 a:not([href]):not([class]) {
-	color: #007bff;
+	color: #ffc8dd;
 	text-decoration: none;
 	background-color: transparent;
 }
 
 a:hover, a:not([href]):not([class]):hover {
-	color: #0056b3;
+	color: #cbc0d3;
 	text-decoration: none;
 }
 
@@ -4294,4 +4294,21 @@ button.bg-dark:focus {
     padding:.5rem 1rem;
     border-radius:10px;
     margin-bottom:1.5rem;
+}
+
+.com {
+    display:block!important;
+    width:100%;
+    border-radius:10px;
+    padding:.75rem .75rem;
+    font-size:1.3rem;
+    color:#ffc8dd;
+    transition:.4s ease;
+}
+
+.com:hover {
+    background:#ffc8dd;
+    text-decoration:none;
+    color:#fff;
+    transition:.4s ease;
 }
