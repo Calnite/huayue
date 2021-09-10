@@ -4276,10 +4276,6 @@ button.bg-dark:focus {
   scrollbar-width: thin;
 }
 
-.bg-white {
-    border:1px solid #ededed;
-}
-
 .rounded {
     border-radius:20px;
 }
