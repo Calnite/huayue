@@ -4302,13 +4302,13 @@ button.bg-dark:focus {
     border-radius:10px;
     padding:.75rem .75rem;
     font-size:1.3rem;
-    color:#ffc8dd;
-    transition:.4s ease;
+    color:#BDB7B7;
+    transition:all .4s ease;
 }
 
 .com:hover {
     background:#ffc8dd;
     text-decoration:none;
     color:#fff;
-    transition:.4s ease;
+    transition:all .4s ease;
 }
