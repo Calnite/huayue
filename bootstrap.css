@@ -31,10 +31,10 @@ section {
 body {
 	margin: 0;
 	font-weight: 400;
-	padding: 1.5rem;
+	padding:0;
 	font-family:  'Nunito', sans-serif;
 	line-height:1.8;
-    background:#fff0f3;
+    background:#ffffff;
     color:#a39280;
     font-size:.85rem;
 }
@@ -254,8 +254,8 @@ h6,
 .container-lg,
 .container-xl {
 	width: 100%;
-	padding-right: 15px;
-	padding-left: 15px;
+	padding-right: 0;
+	padding-left: 0;
 	margin-right: auto;
 	margin-left: auto
 }
